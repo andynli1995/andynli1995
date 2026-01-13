@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Andy Li 👋
 
-<!--
-**andynli1995/andynli1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** building scalable backend systems serving millions of users.
 
-Here are some ideas to get you started:
+📍 Minneapolis, Minnesota  
+💼 Senior Software Engineer @ [Yelp](https://www.yelp.com) | Senior Technical Consultant @ [Sayeef Digital Agency UK](https://sayeefdigitalagency.co.uk/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+I write software and follow the golden rule - so far so good for all involved :)
+
+Backend engineer with expertise designing scalable architectures, improving uptime to 99.99% while maintaining reliability for millions of concurrent global users.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** TypeScript, JavaScript, Node.js, Python, Java, Go, Ruby
+
+**Frameworks:** React, NestJS, GraphQL, Redux
+
+**Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, CI/CD
+
+**Databases:** PostgreSQL, MongoDB, Redis, DynamoDB, MySQL
+
+
+---
+
+## 🔗 Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/andy-li-18b2b33a1/)
+- 📧 tzheng403@gmail.com
+- 💻 [GitHub](https://github.com/andynli1995)
+
+---
+
+*Available for senior engineering roles and consulting opportunities.*
