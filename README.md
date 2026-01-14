@@ -30,7 +30,7 @@ Backend engineer with expertise designing scalable architectures, improving upti
 
 ## 🔗 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/andy-li-18b2b33a1/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andy-li-7694123a4/)
 - 📧 tzheng403@gmail.com
 - 💻 [GitHub](https://github.com/andynli1995)
 
