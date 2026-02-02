@@ -3,7 +3,7 @@
 **Software Engineer** building scalable backend systems serving millions of users.
 
 📍 Minneapolis, Minnesota  
-💼 Senior Software Engineer @ [Yelp](https://www.yelp.com) | Senior Technical Consultant @ [Sayeef Digital Agency UK](https://sayeefdigitalagency.co.uk/)
+💼 Senior Software Engineer @ [Yelp](https://www.yelp.com)
 
 ---
 
