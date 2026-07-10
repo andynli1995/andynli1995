@@ -1,9 +1,9 @@
 # Hi, I'm Andy Li 👋
 
-**Software Engineer** building scalable backend systems serving millions of users.
+**Senior AI Engineer** building LLM-powered systems and the cloud infrastructure behind them.
 
-📍 Minneapolis, Minnesota  
-💼 Senior Software Engineer @ [Yelp](https://www.yelp.com)
+📍 Plymouth, Minnesota  
+💼 Most recently Senior AI & Cloud Engineer @ [Yelp](https://www.yelp.com)
 
 ---
 
@@ -11,29 +11,30 @@
 
 I write software and follow the golden rule - so far so good for all involved :)
 
-Backend engineer with expertise designing scalable architectures, improving uptime to 99.99% while maintaining reliability for millions of concurrent global users.
+Backend and AI engineer with 6+ years shipping LLM features from idea to production: RAG grounded in real data, tool-calling agents that check with a person before acting, and the caching, validation, and cost tracking that keep them reliable. Just as comfortable owning the AWS infrastructure underneath, usually leaving latency and uptime better than I found them.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** TypeScript, JavaScript, Node.js, Python, Java, Go, Ruby
+**AI & LLM:** OpenAI, Anthropic, RAG, Embeddings & pgvector, Tool / Function Calling, Agentic Workflows, Human-in-the-Loop, Structured Outputs & JSON Schema, LLM Evaluation, MCP
 
-**Frameworks:** React, NestJS, GraphQL, Redux
+**Languages:** Python, TypeScript, JavaScript, SQL
 
-**Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, CI/CD
+**Backend:** FastAPI, Node.js, REST, GraphQL, Microservices
 
-**Databases:** PostgreSQL, MongoDB, Redis, DynamoDB, MySQL
+**Cloud & DevOps:** AWS (ECS, Lambda, DynamoDB, S3, Kinesis), Terraform, Docker, GitHub Actions, Jenkins, CloudWatch, CI/CD
 
+**Databases:** PostgreSQL, MySQL, Redis, DynamoDB
 
 ---
 
 ## 🔗 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/andy-li-71412a31b)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andy-li-b4420b32b)
 - 📧 andy.nli1995@gmail.com
 - 💻 [GitHub](https://github.com/andynli1995)
 
 ---
 
-*Available for senior engineering roles and consulting opportunities.*
+*Available for senior AI and backend engineering roles and consulting opportunities.*
